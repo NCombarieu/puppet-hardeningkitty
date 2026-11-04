@@ -1,0 +1,6 @@
+# rapports et pages générés
+*.html
+reports/
+hardeningkitty_report_*.csv
+hk_*.csv
+*.log
